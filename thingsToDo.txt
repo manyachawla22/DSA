@@ -1,0 +1,10 @@
+1. Remove function in suffix trie
+2. Implement huffman coding
+3. Implement AVL trees
+4. Understand B-trees
+5. Recursion 3
+6. Crossword problem in backtracking
+7. Code sieve of eratosthenes (Prime number)
+8. Solve questions of maps (hashing)
+9. Union by rank and path compression algo for cycle detention in kruskals algo (Graphs)
+10. Learn vi
